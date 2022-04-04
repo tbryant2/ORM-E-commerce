@@ -9,3 +9,5 @@ add .env file with following details
 DB_NAME=ecommerce_db
 DB_USER=root 
 DB_PW=memis123
+
+video walkthru link: https://youtu.be/BBR4WlzWMI0
