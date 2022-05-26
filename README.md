@@ -4,6 +4,15 @@ Back end building and connection for e-commerce website stype. Applies Sequelize
 # Technologies 
 Javascript, dotenv, express, MySql, sequelize 
 
+# Installation
+npm init
+
+npm install mysql2
+
+npm install sequelize
+
+npm install dotenv
+
 # Instructions 
 add .env file with following details 
 DB_NAME=ecommerce_db
