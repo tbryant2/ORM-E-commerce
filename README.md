@@ -27,7 +27,7 @@ Enter PW when promted
 
 source db/schema.sql
 
-quit
+quit;
 
 npm run seed
 
