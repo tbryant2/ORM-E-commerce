@@ -19,6 +19,20 @@ DB_NAME=ecommerce_db
 DB_USER=root 
 DB_PW=memis123
 
+Run the following command at the root of your project and answer the prompted questions:
+
+mysql -u root -p
+
+Enter PW when promted
+
+source db/schema.sql
+
+quit
+
+npm run seed
+
+npm start
+
 video walkthru link: https://youtu.be/BBR4WlzWMI0
 
 
